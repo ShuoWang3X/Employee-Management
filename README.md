@@ -278,3 +278,4 @@ java -jar target/employee-management-1.0-SNAPSHOT.jar
 5. 增加数据可视化展示
 6. 支持多语言界面切换
 7. 开发 Web 版本，支持远程访问"# Employee-Management" 
+"# Employee-Management" 
